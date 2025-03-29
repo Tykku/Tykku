@@ -3,8 +3,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tykku&theme=2077)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tykku&theme=2077&utcOffset=-5)
 
 <!--
-**LTS-FFXIV/LTS-FFXIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
